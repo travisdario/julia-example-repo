@@ -1,0 +1,2 @@
+is_even(n) = n % 2 == 0
+println(is_even(4))
